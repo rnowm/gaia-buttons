@@ -1,0 +1,23 @@
+{
+  "name": "gaia-buttons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gaia-components/gaia-buttons",
+  "authors": [
+    "Wilson Page <wilsonpage@me.com>"
+  ],
+  "main": "script.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "README.md",
+    "karma.conf.js"
+  ],
+  "dependencies": {
+    "gaia-component-utils": "gaia-components/gaia-component-utils"
+  }
+}
