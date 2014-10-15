@@ -18,6 +18,7 @@
     "karma.conf.js"
   ],
   "dependencies": {
-    "gaia-component-utils": "gaia-components/gaia-component-utils"
+    "gaia-component-utils": "gaia-components/gaia-component-utils",
+    "gaia-button": "gaia-components/gaia-button"
   }
 }
